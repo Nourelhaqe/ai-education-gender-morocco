@@ -72,5 +72,5 @@ adanie94@asu.edu
 
 If you use this project or its findings in your work, please cite:
 
-> Nourelhaqe. (2025). *AI-Powered Forecasting of Female Education Trends in Morocco* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15391382
+> El macouti Nour el haq. (2025). *AI-Powered Forecasting of Female Education Trends in Morocco* (v1.0.0) . Zenodo. https://doi.org/10.5281/zenodo.15391382
 
