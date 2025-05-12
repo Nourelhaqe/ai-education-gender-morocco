@@ -26,10 +26,10 @@ Gender equality in education is a cornerstone of social and economic progress. B
 ##  Visual Results
 
 ### Actual vs Predicted (Test Data)
-![Actual vs Predicted](education_predictor/Actual vs Predicted.PNG) 
+![Actual vs Predicted](education_predictor/Actual_vs_Predicted.png) 
 
 ### Forecast (2020–2035)
-![Future Forecast](education_predictor/future prediction.png)
+![Future Forecast](education_predictor/Future_Prediction.png)
 
 ---
 
