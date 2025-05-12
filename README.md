@@ -68,6 +68,9 @@ adanie94@asu.edu
 
 ---
 
-## 🪪 License
+## 📘 Citation
 
-This project is licensed under the **MIT License**.
+If you use this project or its findings in your work, please cite:
+
+> Nourelhaqe. (2025). *AI-Powered Forecasting of Female Education Trends in Morocco* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15391382
+
